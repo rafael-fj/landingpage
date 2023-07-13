@@ -1,0 +1,112 @@
+.top-bar {
+  background-color: #ffffff;
+  height: 80px;
+  left: 20px;
+  position: relative;
+  width: 1280px;
+}
+
+.top-bar .logo {
+  color: var(--black);
+  font-family: var(--subtitle-font-family);
+  font-size: var(--subtitle-font-size);
+  font-style: var(--subtitle-font-style);
+  font-weight: var(--subtitle-font-weight);
+  height: 30px;
+  left: 44px;
+  letter-spacing: var(--subtitle-letter-spacing);
+  line-height: var(--subtitle-line-height);
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.top-bar .about {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  height: 27px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.top-bar .work {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  height: 27px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.top-bar .contact {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  height: 27px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.top-bar.default {
+  top: 20px;
+}
+
+.top-bar.top-bar-2 {
+  top: 120px;
+}
+
+.top-bar.top-bar-3 {
+  top: 220px;
+}
+
+.top-bar.default .about {
+  left: 960px;
+}
+
+.top-bar.top-bar-2 .about {
+  left: 552px;
+}
+
+.top-bar.top-bar-3 .about {
+  left: 657px;
+}
+
+.top-bar.default .work {
+  left: 1061px;
+}
+
+.top-bar.top-bar-2 .work {
+  left: 728px;
+}
+
+.top-bar.top-bar-3 .work {
+  left: 908px;
+}
+
+.top-bar.default .contact {
+  left: 1153px;
+}
+
+.top-bar.top-bar-2 .contact {
+  left: 895px;
+}
+
+.top-bar.top-bar-3 .contact {
+  left: 1150px;
+}

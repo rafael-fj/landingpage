@@ -1,0 +1,183 @@
+.clients {
+  background-color: var(--white);
+  left: 20px;
+  position: relative;
+  width: 1280px;
+}
+
+.clients .logos-1280 {
+  left: 100px !important;
+  top: 67px !important;
+}
+
+.clients .text-wrapper {
+  color: var(--black);
+  font-family: "Epilogue", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 584px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.clients .group {
+  left: 100px;
+  position: absolute;
+  width: 1080px;
+}
+
+.clients .client-card-1280 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.clients .client-card-instance {
+  left: 375px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.clients .client-card-1280-instance {
+  left: 750px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.clients .gemma-nolen-google {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 194px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 346px;
+}
+
+.clients .this-is-a-template {
+  color: var(--black);
+  font-family: var(--h2-font-family);
+  font-size: var(--h2-font-size);
+  font-style: var(--h2-font-style);
+  font-weight: var(--h2-font-weight);
+  left: 85px;
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  position: absolute;
+  top: 74px;
+  width: 820px;
+}
+
+.clients .div {
+  height: 20px;
+  left: 191px;
+  position: absolute;
+  top: 317px;
+  width: 130px;
+}
+
+.clients .star {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.clients .img {
+  height: 16px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.clients .star-wrapper {
+  height: 20px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.clients .img-wrapper {
+  height: 20px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.clients .star-2 {
+  height: 20px;
+  left: 82px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.clients .star-3 {
+  height: 20px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.clients .ellipse {
+  height: 75px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 310px;
+  width: 75px;
+}
+
+.clients.clients-1280-2 {
+  height: 780px;
+  top: 1018px;
+}
+
+.clients.brands-1280 {
+  height: 180px;
+  top: 20px;
+}
+
+.clients.clients-1280-1 {
+  height: 750px;
+  top: 234px;
+}
+
+.clients.clients-1280-2 .text-wrapper {
+  top: 123px;
+}
+
+.clients.brands-1280 .text-wrapper {
+  top: 121px;
+}
+
+.clients.clients-1280-1 .text-wrapper {
+  top: 121px;
+}
+
+.clients.clients-1280-2 .group {
+  background-color: #f3f3f3;
+  height: 465px;
+  top: 200px;
+}
+
+.clients.brands-1280 .group {
+  height: 400px;
+  top: 203px;
+}
+
+.clients.clients-1280-1 .group {
+  height: 400px;
+  top: 203px;
+}

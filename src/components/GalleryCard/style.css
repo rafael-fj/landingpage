@@ -1,0 +1,46 @@
+.gallery-card {
+  height: 422px;
+  left: 738px;
+  position: relative;
+  top: 4544px;
+  width: 330px;
+}
+
+.gallery-card .project-title {
+  color: var(--black);
+  font-family: var(--subtitle-font-family);
+  font-size: var(--subtitle-font-size);
+  font-style: var(--subtitle-font-style);
+  font-weight: var(--subtitle-font-weight);
+  left: 0;
+  letter-spacing: var(--subtitle-letter-spacing);
+  line-height: var(--subtitle-line-height);
+  position: absolute;
+  top: 354px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.gallery-card .UI-art-drection {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 394px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.gallery-card .rectangle {
+  height: 330px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}

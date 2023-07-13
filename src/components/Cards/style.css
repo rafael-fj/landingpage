@@ -1,0 +1,144 @@
+.cards {
+  height: 450px;
+  position: relative;
+  width: 1080px;
+}
+
+.cards .card {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 450px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+
+.cards .frame {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  justify-content: center;
+  left: 40px;
+  position: relative;
+  top: 60px;
+  width: 250px;
+}
+
+.cards .group-2 {
+  height: 125px;
+  min-width: 125px;
+  position: relative;
+}
+
+.cards .frame-2 {
+  height: 142px;
+  min-width: 249.9px;
+  position: relative;
+}
+
+.cards .product-design {
+  color: var(--black);
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  left: 0;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+  width: 250px;
+}
+
+.cards .p {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 250px;
+}
+
+.cards .frame-wrapper {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 450px;
+  left: 375px;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+
+.cards .frame-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 61px;
+  justify-content: center;
+  left: 40px;
+  position: relative;
+  top: 60px;
+  width: fit-content;
+}
+
+.cards .group-3 {
+  height: 127px;
+  min-width: 130.46px;
+  position: relative;
+}
+
+.cards .art-direction {
+  color: var(--black);
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  left: 38px;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.cards .div-wrapper {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 450px;
+  left: 750px;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+
+.cards .group-4 {
+  height: 130.46px;
+  min-width: 130.46px;
+  position: relative;
+}
+
+.cards .visual-design {
+  color: var(--black);
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  left: 36px;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}

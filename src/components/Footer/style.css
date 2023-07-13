@@ -1,0 +1,233 @@
+.footer {
+  background-color: #ffffff;
+  height: 720px;
+  left: -641px;
+  position: relative;
+  top: 9274px;
+  width: 1280px;
+}
+
+.footer .group-11 {
+  height: 515px;
+  left: 650px;
+  position: absolute;
+  top: 55px;
+  width: 536px;
+}
+
+.footer .botton-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 435px !important;
+}
+
+.footer .design-component-instance-node {
+  left: 82px !important;
+}
+
+.footer .overlap {
+  background-color: #f3f3f3;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 530px;
+}
+
+.footer .input {
+  background-color: transparent;
+  border: 0;
+  color: #2d2d2d;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  height: 27px;
+  left: 34px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  padding: 0;
+  position: relative;
+  top: 24px;
+  white-space: nowrap;
+  width: 465px;
+}
+
+.footer .overlap-group {
+  background-color: #f3f3f3;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 530px;
+}
+
+.footer .type-your-message-wrapper {
+  background-color: #f3f3f3;
+  height: 215px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 530px;
+}
+
+.footer .type-your-message {
+  background-color: transparent;
+  border: 0;
+  color: #2d2d2d;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  height: 154px;
+  left: 34px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  padding: 0;
+  position: relative;
+  top: 33px;
+  width: 465px;
+}
+
+.footer .overlap-2 {
+  height: 305px;
+  left: 99px;
+  position: absolute;
+  top: 55px;
+  width: 365px;
+}
+
+.footer .group-12 {
+  height: 305px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 364px;
+}
+
+.footer .lets-work-together {
+  color: var(--black);
+  font-family: var(--h2-font-family);
+  font-size: var(--h2-font-size);
+  font-style: var(--h2-font-style);
+  font-weight: var(--h2-font-weight);
+  left: 0;
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 332px;
+}
+
+.footer .this-is-a-template-7 {
+  color: #2d2d2d;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 78px;
+  width: 360px;
+}
+
+.footer .group-13 {
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 269px;
+  width: 232px;
+}
+
+.footer .discord {
+  color: #ff625000;
+  font-family: "Mulish", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 36px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 266px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.footer .facebook {
+  color: #ff625000;
+  font-family: "Mulish", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 36px;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 267px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.footer .dribbble {
+  color: #ff625000;
+  font-family: "Mulish", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 36px;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 266px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.footer .instagram {
+  color: #ff625000;
+  font-family: "Mulish", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 36px;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 266px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.footer .behance {
+  color: #ff625000;
+  font-family: "Mulish", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 36px;
+  left: 196px;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 266px;
+  white-space: nowrap;
+  width: 36px;
+}

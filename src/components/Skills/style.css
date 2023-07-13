@@ -1,0 +1,172 @@
+.skills {
+  background-color: var(--white);
+  height: 600px;
+  left: 20px;
+  position: relative;
+  width: 1280px;
+}
+
+.skills .cards-instance {
+  left: 100px !important;
+  top: 74px !important;
+}
+
+.skills .group-5 {
+  height: 356px;
+  left: 100px;
+  position: relative;
+  top: 122px;
+  width: 1096px;
+}
+
+.skills .group-6 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 50px;
+}
+
+.skills .group-7 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 217px;
+  width: 52px;
+}
+
+.skills .group-8 {
+  height: 50px;
+  left: 620px;
+  position: absolute;
+  top: 217px;
+  width: 50px;
+}
+
+.skills .group-9 {
+  height: 52px;
+  left: 618px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.skills .product-design-2 {
+  color: var(--black);
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  left: 103px;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.skills .art-direction-2 {
+  color: var(--black);
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  left: 103px;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  position: absolute;
+  top: 217px;
+  white-space: nowrap;
+}
+
+.skills .UI-design-kit {
+  color: var(--black);
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  left: 724px;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  position: absolute;
+  top: 217px;
+  white-space: nowrap;
+}
+
+.skills .visual-design-2 {
+  color: var(--black);
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  left: 723px;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.skills .this-is-a-template-2 {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 103px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 62px;
+  width: 356px;
+}
+
+.skills .this-is-a-template-3 {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 103px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 275px;
+  width: 356px;
+}
+
+.skills .this-is-a-template-4 {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 724px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 275px;
+  width: 356px;
+}
+
+.skills .this-is-a-template-5 {
+  color: var(--black);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 723px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 58px;
+  width: 356px;
+}
+
+.skills.skills-1280-1 {
+  top: 20px;
+}
+
+.skills.skills-1280-2 {
+  top: 649px;
+}
